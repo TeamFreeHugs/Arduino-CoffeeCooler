@@ -19,5 +19,6 @@ It cools coffee.
 7. Fan stopped, remove coffee cup.
 8. Play with it.
 9. Turn of arduino.
-10. Drink cold coffee!
+10. Drink cold coffee!  
+
 <sub>Disclaimer: This was made in an hour<sub>
